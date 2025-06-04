@@ -19,13 +19,20 @@ A simple and lightweight command-line TODO application written in Rust.
 
 ### 📦 Installation
 
+## 🚀 Install
+
+You can install the `todo_list` command-line tool globally using Cargo:
+
+````bash
+cargo install sam_todo_list
+
 Clone the repository and build it:
 
 ```bash
 git clone https://github.com/DvanXanMalai/todo_list
 cd todo_list
 cargo build --release
-```
+````
 
 ### ▶️ Run the program
 
